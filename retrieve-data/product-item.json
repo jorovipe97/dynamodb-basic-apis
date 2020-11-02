@@ -1,0 +1,33 @@
+{
+	"Id": {
+		"N": "201"
+	},
+	"Title": {
+		"S": "18-Bike-201"
+	},
+	"Description": {
+		"S": "201 Description"
+	},
+	"BicycleType": {
+		"S": "Road"
+	},
+	"Brand": {
+		"S": "Mountain A"
+	},
+	"Price": {
+		"N": "100"
+	},
+	"Color": {
+		"L": [
+			{
+				"S": "Red"
+			},
+			{
+				"S": "Black"
+			}
+		]
+	},
+	"ProductCategory": {
+		"S": "Bicycle"
+	}
+}
